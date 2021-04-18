@@ -1,0 +1,56 @@
+/* Write your CSS here */
+.about-container {
+  padding: 25px;
+  padding-top: 30px;
+  font-family: Roboto;
+}
+.about-title {
+  color: #0f172a;
+}
+.about-description {
+  color: #334155;
+  font-size: 18px;
+}
+.education-skills-container {
+  display: flex;
+}
+.card {
+  width: 50%;
+}
+.card-title {
+  color: #0f172a;
+  font-size: 25px;
+}
+.skills-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+.skill {
+  background-color: #ffffff60;
+  margin-right: 40px;
+  margin-bottom: 15px;
+  border-radius: 25px;
+  padding-left: 15px;
+  padding-right: 20px;
+  text-align: center;
+}
+.skill-name {
+  color: #ec4899;
+  font-size: 20px;
+  font-weight: 600;
+  padding: 0px;
+}
+.education-list-container {
+}
+.eduction-item {
+  list-style-type: disc;
+  color: #ec4899;
+}
+.education-qualification {
+  color: #1e293b;
+  font-size: 20px;
+}
+.education-place {
+  color: #334155;
+  font-size: 15px;
+}

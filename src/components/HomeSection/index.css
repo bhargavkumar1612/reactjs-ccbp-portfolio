@@ -1,0 +1,36 @@
+/* Write your CSS here */
+.home-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  font-family: Roboto;
+
+  text-align: center;
+}
+.subject-name {
+  color: #0f172a;
+  font-size: 30px;
+  font-weight: 800;
+}
+.subject-designation {
+  color: #1e293b;
+  font-size: 25px;
+  font-weight: 500;
+}
+.subject-experience {
+  color: #334155;
+  font-size: 20px;
+  font-weight: 500;
+  width: 60%;
+}
+.view-resume {
+  background-color: White;
+  color: #f43f5e;
+  font-size: 15px;
+  padding: 10px;
+  border: 0;
+  font-weight: 600;
+  border-radius: 10px;
+}

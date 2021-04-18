@@ -1,0 +1,8 @@
+/* Write your CSS here */
+.social-media-icons-container {
+  display: flex;
+  justify-content: center;
+}
+.social-media-icon {
+  margin-left: 20px;
+}
